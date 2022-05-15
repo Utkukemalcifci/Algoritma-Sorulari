@@ -1,2 +1,2 @@
 # Algoritma-Sorulari
-İnternette karşıma çıkan algoritma sorularını burada toparlayacağım. Umarım faydası olur.
+İnternette karşıma çıkan algoritma sorularını çözümleriyle burada toparlayacağım. Umarım faydası olur.
