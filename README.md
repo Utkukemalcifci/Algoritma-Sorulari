@@ -1,7 +1,9 @@
 # Algoritma-Sorulari
 İnternette karşıma çıkan algoritma sorularını çözümleriyle burada toparlayacağım. Umarım faydası olur.
 
-#Sorular
+# Sorular
+
+## Soru 1
 1) Size bir sayı dizisi veriliyor. Bu dizideki her elemanın yerinde, o eleman harici tüm elemanların çarpımını içeren bir dizi döndürün.
 
 Örneğin : Elimizde [1,2,3,4,5] olan bir dizi olsun.
